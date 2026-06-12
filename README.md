@@ -22,10 +22,3 @@ LDR (*Light Dependent Resistor*) adalah komponen yang nilai hambatannya (resista
 ### ▶️Koneksi LED
 - Kaki Panjang (+) / Anoda: Sambungkan ke pin 13 di Arduino
 - Kaki Pendek (-) / Katoda: Sambungkan ke Resistor 220 Ohm, lalu ujung resistor lainnya ke pin GND di Arduino
-
-|  LCD 16x2 I2C | Arduino UNO |
-| --- | --- |
-| GND | GND |
-| VCC | 5V |
-| SDA | Pin Analog 4 (A4) |
-| SCL | Pin Analog 5 (A5) |
