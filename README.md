@@ -11,7 +11,7 @@ LDR (*Light Dependent Resistor*) adalah komponen yang nilai hambatannya (resista
 - Breadboard
 
 # Rangkaian
-<img width="1272" height="457" alt="Copy of Arduino LDR" src="https://github.com/user-attachments/assets/b0072fd9-01b1-4a14-9d0b-439e4069af32" />
+<img width="1272" height="457" alt="Copy of Arduino LDR (1)" src="https://github.com/user-attachments/assets/dab28430-f968-400b-9c4d-4bdbc3ede078" />
 ➡️ Untuk memfungsikan sensor LDR, kita membutuhkan resistor tambahan (biasanya 10k Ohm) agar berfungsi sebagai pembagi tegangan (voltage divider).
 
 ### ▶️Koneksi Sensor LDR
